@@ -1,0 +1,14 @@
+# LEO Hash Cracker - Requirements
+# Python 3.7+ required
+
+# Core dependencies (optional but recommended for full functionality)
+pycryptodome>=3.19.0      # For NTLM, LM Hash, and advanced crypto
+bcrypt>=4.1.0             # For bcrypt hash verification
+argon2-cffi>=23.1.0       # For Argon2 hash verification
+
+# Note: Standard library modules used (no installation needed):
+# - hashlib (MD5, SHA family, BLAKE2, etc.)
+# - multiprocessing (multi-core support)
+# - itertools (brute-force combinations)
+# - pathlib (file handling)
+# - base64 (encoding support)
