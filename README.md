@@ -1,4 +1,4 @@
-![image alt](https://github.com/NightmareLynx/LEO/blob/99c803f4643d57ead5cf25b8fb3ae2f3ebe9e278/Banner.jpg)
+![image alt](https://github.com/NightmareLynx/LEO/blob/31e926d37ec080ee57b004b49da77b2eedff2efa/Banner.jpg)
 ===========================================================================================================
 <div align="center">
 
